@@ -12,3 +12,5 @@ SQLAlchemy==2.0.25
 chromadb==0.4.22
 beautifulsoup4==4.12.3
 PyMySQL==1.1.0
+groq==0.4.2
+streamlit==1.31.0
