@@ -22,7 +22,17 @@ Give me the current quantity of stock of all products that contain in their name
 
 Quien fue la ultima persona que hizo un ajuste en el inventario de 'CB8-09005 | bikini dama alto estampado ; talla-s color: blanco' ?
 
+#----- Guardar en Github -------------------#
 
+git remote -v
+git status
+git add .
+git commit -m "initial push"
+git push -u streamtrial1 master
+
+# crear el repositorio ----------------#
+git init
+git remote add streamtrial1 https://github.com/yoshiokiyamusu/streammysql1.git
 
 
 *** Docker *****
