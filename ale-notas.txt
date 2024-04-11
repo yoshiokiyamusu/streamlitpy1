@@ -38,4 +38,3 @@ git remote add streamtrial1 https://github.com/yoshiokiyamusu/streammysql1.git
 *** Docker *****
 docker build -t ykiyamu/streamlitpy:01 . 
 docker images
-docker run -p 8000:8501 -e OPENAI_API_KEY=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 -e DATABASE_URL=mysql+pymysql://nbl3g3rfgr9zmzlp:nl6fxqx5cxwy81hv@klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/zau1dw9gx8qcfum4 ykiyamu/streamlitpy:01
